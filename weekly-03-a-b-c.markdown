@@ -44,7 +44,7 @@ Siri는 말의 의미를 이해하고 실행하는 것을 돕는 것으로 이�
 ## 2.	[Can a robot pass a university entrance exam?](https://www.ted.com/talks/noriko_arai_can_a_robot_pass_a_university_entrance_exam/transcript)
 - Speaker: Noriko Arai (AI expert)
 
-AI 덕분에 새로운 직업이 생겨 AI 때문에 직업을 잃은 사람도 새 직업을 얻게 될 거라고 주장한다. 하지만 AI 때문에 직업을 잃은 사람 중 몇 명이나 새로운 일에 다시 적을할 수 있을까?
+AI 덕분에 새로운 직업이 생겨 AI 때문에 직업을 잃은 사람도 새 직업을 얻게 될 거라고 주장한다. 하지만 AI 때문에 직업을 잃은 사람 중 몇 명이나 새로운 일에 다시 적응할 수 있을까?
 
 강연자는 도쿄대학에 입학시험 통과를 위한 'Todai'로봇 프로젝트를 진행시켰다. 인간의 성과와 빗대어 설명하기 위해서 강연자는 대학의 입학을 목표로 삼았다.
 
